@@ -24,7 +24,7 @@
 
 ## Description:
 
-This is a API for create and auth users of the [starWiki]() project. To run both locally, read the starWiki README as well.
+This is a API for create and auth users of the [starWiki](https://github.com/pablodamascenoo/starWiki) project. To run both locally, read the starWiki README as well.
 
 ## Instalation:
 
